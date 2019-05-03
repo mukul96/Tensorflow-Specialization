@@ -1,3 +1,3 @@
 ## TensorFlow Specialization
-
-1. Course:- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+# Courses
+1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
